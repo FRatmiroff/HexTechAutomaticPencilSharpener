@@ -14,12 +14,15 @@ The software is a Maven project programmed in VSCode using the "Extension Pack f
 
 **Manual**
 
-```MOVE```
+```MOVE``` moves the pencil forward (_stepper.00_move_2000_1_)
 
-```RESET```
+```RESET``` moves the pencil backward (_stepper.00_move_-2000_1_)
 
-```SHARPEN```
+```SHARPEN``` moves the pencil forward slightly and rotates the pencil (_stepper.00_move_200_1; dc.00_move_800_)
 
 **Automatic**
 
-```AUTOSHARPEN```
+```AUTOSHARPEN``` automates the process of sharpening the pencil; place the pencil in the socket and press autosharpen for the pencil to come out sharpened with no further input (_WIP_)
+
+# Possible Challenges
+WIP
