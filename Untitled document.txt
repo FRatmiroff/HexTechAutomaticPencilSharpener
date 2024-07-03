@@ -1,4 +1,0 @@
-﻿From completing this as my first project as an intern at Hextronics, I've learned critical skills in problem-solving and engineering. Before working at Hextronics, I had mostly practiced programming. This project has taught me how to translate that skill into the real world, using programming languages I am familiar with, such as Java. I have learned how software I create can be used to interact with components in a practical setting, facilitated by the use of the HexTech board.
-
-
-Through the use of HexTech, I was easily able to interact with the mechanical components in my project with built-in HexTech commands and framework. The application of HexTech allowed for an easy understanding and implementation of my immediate skills and skills I had yet to learn. As I gain more experience and further my understanding of HexTech and its uses, I will be able to more effectively and efficiently create complex machines in the pursuit of greater knowledge.
