@@ -22,7 +22,8 @@ The software is a Maven project programmed in VSCode using the "Extension Pack f
 
 **Automatic**
 
-```AUTOSHARPEN``` automates the process of sharpening the pencil; place the pencil in the socket and press autosharpen for the pencil to come out sharpened with no further input (_WIP_)
+```AUTOSHARPEN``` automates the process of sharpening the pencil; place the pencil in the socket and press autosharpen for the pencil to come out sharpened with no further input (_stepper.00_speed_1000|stepper.00_move_4300_1|stepper.00_speed_400;stepper.00_move_3400_1;dc.00_move_9000|stepper.00_speed_1000|
+stepper.00_move_-_6900__1_)
 
 # Possible Challenges
 WIP
