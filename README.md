@@ -26,4 +26,4 @@ The software is a Maven project programmed in VSCode using the "Extension Pack f
 stepper.00_move_-_6900__1_)
 
 # Possible Challenges
-WIP
+Ensure you are using a standard No. 2 pencil (a diameter of approximately 8 mm) for the pencil to fit through the support, in the sharpener, and in the coupler. Ensure the speed of the stepper motor does not exceed 500 while sharpening or else the pencil will jam in the sharpener.
